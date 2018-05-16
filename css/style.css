@@ -12,7 +12,9 @@ body {
 p {
     font-family: 'Oxygen';font-size: 22px;
 }
-
+#headtext {
+    font-family: 'Lato';
+}
 section {
   position: relative;
   width: 100%;
